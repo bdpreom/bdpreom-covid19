@@ -1,1 +1,1 @@
-# covid19xray
+# bdpreom-covid19
